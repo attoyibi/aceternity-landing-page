@@ -1,0 +1,11 @@
+# Ignore shadcn ui components
+src/components/ui/
+src/components/ui/**
+components/ui/
+lib/utils.ts
+
+# Contoh ignore folder lain
+node_modules/
+.next/
+dist/
+build/
